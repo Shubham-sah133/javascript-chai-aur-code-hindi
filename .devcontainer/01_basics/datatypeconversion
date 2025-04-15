@@ -1,0 +1,25 @@
+// let bollean= "0"
+
+//  there is two way to check what type of data it is.
+// console.log(type of score);
+// console.log(type of(score));
+
+
+// let valueInBollean = bollean(bollean)
+// console.log(valueInNollean);
+
+//consosle  
+let score="shubham"
+let ValueInNumber = Number(score)
+
+let isLoggedIn ="hitesh"
+let booleanIsLoggedIn = Boolean(isLoggedIn)
+console.log(booleanIsLoggedIn);
+
+
+
+
+let somenumber = 33
+let Number = String(somenumber)
+console.log(Number);
+console.log(typeof(Number));
